@@ -9,6 +9,8 @@
 * Our browsers do not understand react, they only understand HTML, CSS & JS, here comes the webpack.
 * Webpack is code bundler, which converts our React code into plain HTML, CSS, JS so that it can be interpreted by our browsers, and we do not need to modify/upgrade our browsers to run/view our react code.
 
+* **webpack.config.js :** It is file, which contains rules for parsing every type of file you want to include and configurations for the build version of react
+
 ### Run
 * To run in development mode
 ```sh
