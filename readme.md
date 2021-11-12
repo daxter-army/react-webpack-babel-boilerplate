@@ -17,7 +17,7 @@
 npm run start
 ```
 
-* To run in production mode
+* To create build pack for your application
 ```
 npm run build
 ```
