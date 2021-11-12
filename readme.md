@@ -28,3 +28,5 @@ npm run build
 * **/dist :** Folder contains the compiled, minified version of react app
 
 * **App.js :** It is the starting point of our application, can start developing from there
+
+**NOTE : If you are starting with your development, you can delete the /dist folder from the directory, can rebuild a updated build version of your application, later.**
